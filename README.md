@@ -74,7 +74,7 @@
 ---
 <div align="center">
  <br><p align="center"><b>Contador de visitantes</b></p>
- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Julia-Teixeira}/count.svg" /></p>
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/{juliapereirateixeira}/count.svg" /></p>
  <br>
 </div>
 
